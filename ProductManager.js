@@ -58,9 +58,9 @@ class ProductManager {
 
 
 const productManager = new ProductManager();
-productManager.addProduct("Papa", "Papa americana", 20, "./papa.png", 100, 100);
-productManager.addProduct("Tomate", "Tomate tipo bola", 30, "./tomate.png", 200, 60);
-productManager.addProduct("Cebolla", "Cebolla amex", 15, "./cebolla.jpeg", 300,80);
+productManager.addProduct("Papa", "Papa americana", 20, "../papa.png", 100, 100);
+productManager.addProduct("Tomate", "Tomate tipo bola", 30, "../tomate.png", 200, 60);
+productManager.addProduct("Cebolla", "Cebolla amex", 15, "../cebolla.jpeg", 300,80);
 //ticketManager.agregarEvento("Evento 1", "Lugar 1", 100);
 //ticketManager.agregarEvento("Evento 2", "Lugar 2", 200);
 //ticketManager.agregarEvento("Evento 3", "Lugar 3", 300);
